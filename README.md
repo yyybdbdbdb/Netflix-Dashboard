@@ -18,8 +18,4 @@ Identification of the best-rated movie and show in the last 50 years.
 
 Distribution analysis of content by year and type (MOVIE vs SHOW).
 
-Correlation between age certification and IMDb scores.
 
-Dashboard Design: Built a dynamic, filterable dashboard with slicers for year, type, and age certification to enable granular insights for stakeholders.
-
-Data Storytelling: Highlighted key findings using KPIs, trend lines, and bar/line charts to support strategic content decisions.
